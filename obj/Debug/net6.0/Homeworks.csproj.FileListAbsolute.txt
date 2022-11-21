@@ -1,0 +1,15 @@
+C:\Users\KHANIM\Desktop\New folder\Homeworks\bin\Debug\net6.0\Homeworks.exe
+C:\Users\KHANIM\Desktop\New folder\Homeworks\bin\Debug\net6.0\Homeworks.deps.json
+C:\Users\KHANIM\Desktop\New folder\Homeworks\bin\Debug\net6.0\Homeworks.runtimeconfig.json
+C:\Users\KHANIM\Desktop\New folder\Homeworks\bin\Debug\net6.0\Homeworks.dll
+C:\Users\KHANIM\Desktop\New folder\Homeworks\bin\Debug\net6.0\Homeworks.pdb
+C:\Users\KHANIM\Desktop\New folder\Homeworks\obj\Debug\net6.0\Homeworks.csproj.AssemblyReference.cache
+C:\Users\KHANIM\Desktop\New folder\Homeworks\obj\Debug\net6.0\Homeworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHANIM\Desktop\New folder\Homeworks\obj\Debug\net6.0\Homeworks.AssemblyInfoInputs.cache
+C:\Users\KHANIM\Desktop\New folder\Homeworks\obj\Debug\net6.0\Homeworks.AssemblyInfo.cs
+C:\Users\KHANIM\Desktop\New folder\Homeworks\obj\Debug\net6.0\Homeworks.csproj.CoreCompileInputs.cache
+C:\Users\KHANIM\Desktop\New folder\Homeworks\obj\Debug\net6.0\Homeworks.dll
+C:\Users\KHANIM\Desktop\New folder\Homeworks\obj\Debug\net6.0\refint\Homeworks.dll
+C:\Users\KHANIM\Desktop\New folder\Homeworks\obj\Debug\net6.0\Homeworks.pdb
+C:\Users\KHANIM\Desktop\New folder\Homeworks\obj\Debug\net6.0\Homeworks.genruntimeconfig.cache
+C:\Users\KHANIM\Desktop\New folder\Homeworks\obj\Debug\net6.0\ref\Homeworks.dll
